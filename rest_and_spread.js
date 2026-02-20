@@ -15,4 +15,4 @@ arr2[2],name='jane';
 console.log(arr1);
 console.log(arr2);
 
- 
+ ``
