@@ -9,7 +9,7 @@ const person={
 };
 console.log(person)
 const{name,age,phone = 1234567890,city = "delhi"}=person;
-console.log(name);
+console.log(name); 
 console.log(age);
 console.log(phone);
 console.log(city);
